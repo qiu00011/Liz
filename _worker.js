@@ -492,7 +492,7 @@ export default {
                 <img class="notice-avatar-img" src="https://liz.cmcc.cc.cd/Background/0a8bf729894a5a79e8dabd3558a3ee58.jpg" alt="Tomato Liz">
             </div>
             
-            <span class="curtain-sub">IVE · 4th Gen Main Vocal</span>
+            <span class="curtain-sub">김 지 원</span>
             <h1 class="curtain-title">Tomato Liz</h1>
             <p class="curtain-notice">您将看见可爱小猫</p>
             
@@ -516,7 +516,7 @@ export default {
                     </div>
                     <div class="author-meta">
                         <span class="author-name">Tomato Liz 🍅</span>
-                        <span class="author-sub">IVE · 金志垣</span>
+                        <span class="author-sub">지원 · 金志垣</span>
                     </div>
                 </div>
 
