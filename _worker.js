@@ -343,7 +343,7 @@ export default {
             /* 嵌入指定的 liz.jpg 电影感全屏背景图 */
             background: 
                 linear-gradient(rgba(15, 3, 9, 0.75), rgba(15, 3, 9, 0.88)), 
-                url('https://cmcc.cc.cd/liz.jpg') no-repeat center center / cover;
+                url('https://hyeri.us.kg/liz.jpg') no-repeat center center / cover;
             z-index: 999;
             display: flex;
             flex-direction: column;
@@ -489,7 +489,7 @@ export default {
         <div class="cinematic-box">
             <!-- 提示文上方显示的专属 Liz Icon -->
             <div class="notice-avatar-frame">
-                <img class="notice-avatar-img" src="https://liz.cmcc.cc.cd/Background/0a8bf729894a5a79e8dabd3558a3ee58.jpg" alt="Tomato Liz">
+                <img class="notice-avatar-img" src="https://liz.hyeri.us.kg/Background/0a8bf729894a5a79e8dabd3558a3ee58.jpg" alt="Tomato Liz">
             </div>
             
             <span class="curtain-sub">김 지 원</span>
@@ -512,7 +512,7 @@ export default {
                 <div class="channel-info">
                     <!-- 左上角头像：嵌入指定 Liz 头像 -->
                     <div class="author-avatar-box">
-                        <img class="author-avatar-img" src="https://liz.cmcc.cc.cd/Background/0a8bf729894a5a79e8dabd3558a3ee58.jpg" alt="Liz">
+                        <img class="author-avatar-img" src="https://liz.hyeri.us.kg/Background/0a8bf729894a5a79e8dabd3558a3ee58.jpg" alt="Liz">
                     </div>
                     <div class="author-meta">
                         <span class="author-name">Tomato Liz 🍅</span>
@@ -534,7 +534,7 @@ export default {
 
             <video 
                 id="lizVideo"
-                src="https://liz.cmcc.cc.cd/Video/liz.mp4" 
+                src="https://liz.hyeri.us.kg/Video/liz.mp4" 
                 loop 
                 playsinline 
                 webkit-playsinline
